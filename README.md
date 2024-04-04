@@ -11,10 +11,14 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=altamisatmaja&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=altamisatmaja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=altamisatmaja&theme=tokyonight&hide_border=false)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/altamisblade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altamisatmaja) 
